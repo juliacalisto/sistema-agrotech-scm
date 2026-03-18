@@ -2,4 +2,4 @@
 
 Projeto desenvolvido para a disciplina de Gerenciamento de Configuração.
 
-Aluno: Julia Calisto
+Aluna: Julia Vitoria Calisto Nogueira
